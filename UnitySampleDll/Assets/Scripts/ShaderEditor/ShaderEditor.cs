@@ -33,6 +33,7 @@ public class ShaderEditor : EditorWindow
         editor.Show();
     }
 
+
     private void Awake()
     {
         //nodes.Add(new Node("Node1", new Vector2(400, 200), new Vector2(100, 50)));
